@@ -1,0 +1,17 @@
+body{
+    cursor: pointer;
+    background-image: url("Untitled.jpg"); 
+    background-color: rgb(170, 220, 255);
+    background-repeat: no-repeat;
+    background-position: top right;
+ }
+ h1{
+   color: aliceblue;
+    text-shadow: 3px 2px rgb(0, 0, 0);
+    text-transform:uppercase;
+ }
+ .large {
+   font-size: 20px;
+text-transform: capitalize;
+ }
+ 
